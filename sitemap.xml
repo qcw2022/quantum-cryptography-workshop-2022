@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <!-- replace WEBSITE with the address where this site is being hosted -->
    <url>
-       <loc>WEBSITE</loc>
+       <loc>https://qcw2022.github.io/quantum-cryptography-workshop-2022/</loc>
    </url>
    <url>
-       <loc>WEBSITE/registration</loc>
+       <loc>https://qcw2022.github.io/quantum-cryptography-workshop-2022/registration</loc>
    </url>
    <url>
-       <loc>WEBSITE/program</loc>
+       <loc>https://qcw2022.github.io/quantum-cryptography-workshop-2022/program</loc>
    </url>
    <url>
-       <loc>WEBSITE/directions</loc>
+       <loc>https://qcw2022.github.io/quantum-cryptography-workshop-2022/directions</loc>
    </url>
 </urlset> 
 
